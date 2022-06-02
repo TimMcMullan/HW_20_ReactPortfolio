@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.1cf96341.css",
-    "main.js": "/my-app/static/js/main.0852a843.js",
-    "static/js/787.e29dc422.chunk.js": "/my-app/static/js/787.e29dc422.chunk.js",
-    "static/media/tim.jpg": "/my-app/static/media/tim.8da96991ecd89fd8ebad.jpg",
-    "static/media/passwordgenerator.png": "/my-app/static/media/passwordgenerator.8aacde1b80360bb1b337.png",
-    "static/media/routemyday.jpeg": "/my-app/static/media/routemyday.907fe12dfe21d3eb5e9b.jpeg",
-    "static/media/hero.jpg": "/my-app/static/media/hero.b5c9d69dc6e25034e8f3.jpg",
-    "static/media/refactor.jpg": "/my-app/static/media/refactor.dd35643c16c4d95158c7.jpg",
-    "static/media/pitch.catch.png": "/my-app/static/media/pitch.catch.65a26eda86baff4fb6fc.png",
-    "static/media/readmegenerator.png": "/my-app/static/media/readmegenerator.9ce0d8c9c2134b80e865.png",
-    "static/media/dayplanner.jpg": "/my-app/static/media/dayplanner.913fb8337ac603acb625.jpg",
-    "index.html": "/my-app/index.html",
-    "main.1cf96341.css.map": "/my-app/static/css/main.1cf96341.css.map",
-    "main.0852a843.js.map": "/my-app/static/js/main.0852a843.js.map",
-    "787.e29dc422.chunk.js.map": "/my-app/static/js/787.e29dc422.chunk.js.map"
+    "main.css": "/static/css/main.162cb001.css",
+    "main.js": "/static/js/main.31f32b2d.js",
+    "static/js/787.e29dc422.chunk.js": "/static/js/787.e29dc422.chunk.js",
+    "static/media/tim.jpg": "/static/media/tim.8da96991ecd89fd8ebad.jpg",
+    "static/media/passwordgenerator.png": "/static/media/passwordgenerator.8aacde1b80360bb1b337.png",
+    "static/media/routemyday.jpeg": "/static/media/routemyday.907fe12dfe21d3eb5e9b.jpeg",
+    "static/media/hero.jpg": "/static/media/hero.b5c9d69dc6e25034e8f3.jpg",
+    "static/media/refactor.jpg": "/static/media/refactor.dd35643c16c4d95158c7.jpg",
+    "static/media/pitch.catch.png": "/static/media/pitch.catch.65a26eda86baff4fb6fc.png",
+    "static/media/readmegenerator.png": "/static/media/readmegenerator.9ce0d8c9c2134b80e865.png",
+    "static/media/dayplanner.jpg": "/static/media/dayplanner.913fb8337ac603acb625.jpg",
+    "index.html": "/index.html",
+    "main.162cb001.css.map": "/static/css/main.162cb001.css.map",
+    "main.31f32b2d.js.map": "/static/js/main.31f32b2d.js.map",
+    "787.e29dc422.chunk.js.map": "/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf96341.css",
-    "static/js/main.0852a843.js"
+    "static/css/main.162cb001.css",
+    "static/js/main.31f32b2d.js"
   ]
 }
