@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.1cf96341.css",
-    "main.js": "/my-app/static/js/main.0852a843.js",
-    "static/js/787.e29dc422.chunk.js": "/my-app/static/js/787.e29dc422.chunk.js",
-    "static/media/tim.jpg": "/my-app/static/media/tim.8da96991ecd89fd8ebad.jpg",
-    "static/media/passwordgenerator.png": "/my-app/static/media/passwordgenerator.8aacde1b80360bb1b337.png",
-    "static/media/routemyday.jpeg": "/my-app/static/media/routemyday.907fe12dfe21d3eb5e9b.jpeg",
-    "static/media/hero.jpg": "/my-app/static/media/hero.b5c9d69dc6e25034e8f3.jpg",
-    "static/media/refactor.jpg": "/my-app/static/media/refactor.dd35643c16c4d95158c7.jpg",
-    "static/media/pitch.catch.png": "/my-app/static/media/pitch.catch.65a26eda86baff4fb6fc.png",
-    "static/media/readmegenerator.png": "/my-app/static/media/readmegenerator.9ce0d8c9c2134b80e865.png",
-    "static/media/dayplanner.jpg": "/my-app/static/media/dayplanner.913fb8337ac603acb625.jpg",
-    "index.html": "/my-app/index.html",
-    "main.1cf96341.css.map": "/my-app/static/css/main.1cf96341.css.map",
-    "main.0852a843.js.map": "/my-app/static/js/main.0852a843.js.map",
-    "787.e29dc422.chunk.js.map": "/my-app/static/js/787.e29dc422.chunk.js.map"
+    "main.css": "/HW_20_ReactPortfolio/static/css/main.548bf6d0.css",
+    "main.js": "/HW_20_ReactPortfolio/static/js/main.4738651a.js",
+    "static/js/787.e29dc422.chunk.js": "/HW_20_ReactPortfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/tim.jpg": "/HW_20_ReactPortfolio/static/media/tim.8da96991ecd89fd8ebad.jpg",
+    "static/media/passwordgenerator.png": "/HW_20_ReactPortfolio/static/media/passwordgenerator.8aacde1b80360bb1b337.png",
+    "static/media/routemyday.jpeg": "/HW_20_ReactPortfolio/static/media/routemyday.907fe12dfe21d3eb5e9b.jpeg",
+    "static/media/hero.jpg": "/HW_20_ReactPortfolio/static/media/hero.b5c9d69dc6e25034e8f3.jpg",
+    "static/media/refactor.jpg": "/HW_20_ReactPortfolio/static/media/refactor.dd35643c16c4d95158c7.jpg",
+    "static/media/pitch.catch.png": "/HW_20_ReactPortfolio/static/media/pitch.catch.65a26eda86baff4fb6fc.png",
+    "static/media/readmegenerator.png": "/HW_20_ReactPortfolio/static/media/readmegenerator.9ce0d8c9c2134b80e865.png",
+    "static/media/dayplanner.jpg": "/HW_20_ReactPortfolio/static/media/dayplanner.913fb8337ac603acb625.jpg",
+    "index.html": "/HW_20_ReactPortfolio/index.html",
+    "main.548bf6d0.css.map": "/HW_20_ReactPortfolio/static/css/main.548bf6d0.css.map",
+    "main.4738651a.js.map": "/HW_20_ReactPortfolio/static/js/main.4738651a.js.map",
+    "787.e29dc422.chunk.js.map": "/HW_20_ReactPortfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf96341.css",
-    "static/js/main.0852a843.js"
+    "static/css/main.548bf6d0.css",
+    "static/js/main.4738651a.js"
   ]
 }
